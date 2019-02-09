@@ -86,7 +86,8 @@ registered users can:
   - edit existing week
   - add dishes and their ingredients either manually or via link
   - assign dishes to meals throughout the week
-  
+
+## Other components
 - unit testing with Jasmine
 - Bootstrap
 - request + cheerio for recipe parsing
